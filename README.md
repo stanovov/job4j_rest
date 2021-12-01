@@ -11,3 +11,5 @@
 ![](https://img.shields.io/badge/Checkstyle-lightgrey)
 
 # job4j_rest
+
+Репозиторий создан для обучения реализации REST API на Spring Boot.
